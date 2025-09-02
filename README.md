@@ -14,5 +14,5 @@ Tecnologias que estou estudando
 - SQL  
 
 # Contato
-- LinkedIn: [LinkedIn](www.linkedin.com/in/matheus-pires-de-moraes-916ab8381)  
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/matheus-pires-de-moraes-916ab8381).  
 - E-mail: m.pires11@hotmail.com
