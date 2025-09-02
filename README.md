@@ -4,7 +4,7 @@ Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Atualmente estou me dedicando a aprender e aprimorar minhas habilidades em diversas tecnologias para atuar na área de desenvolvimento de software.  
 
-Tecnologias que estou estudando
+Tecnologias que estou estudando:
 - Python  
 - JavaScript  
 - HTML & CSS  
