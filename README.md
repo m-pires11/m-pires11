@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá!  Eu sou o Matheus Pires
 
-<!--
-**m-pires11/m-pires11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+Atualmente estou me dedicando a aprender e aprimorar minhas habilidades em diversas tecnologias para atuar na área de desenvolvimento de software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que estou estudando
+- Python  
+- JavaScript  
+- HTML & CSS  
+- React  
+- Node.js  
+- Git & GitHub  
+- SQL  
+
+# Contato
+- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/matheus-pires-de-moraes-916ab8381)  
+- E-mail: m.pires11@hotmail.com
